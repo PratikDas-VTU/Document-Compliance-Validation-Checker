@@ -1,0 +1,38 @@
+{
+  "spelling_validation": {
+    "enabled": true,
+    "penalty": "Warning"
+  },
+  "date_validation": {
+    "enabled": true,
+    "penalty": "Warning"
+  },
+  "serial_number_validation": {
+    "enabled": true,
+    "penalty": "Warning"
+  },
+  "page_number_validation": {
+    "enabled": true,
+    "penalty": "Warning"
+  },
+  "empty_page_validation": {
+    "enabled": true,
+    "penalty": "Critical"
+  },
+  "alignment_validation": {
+    "enabled": true,
+    "penalty": "Warning"
+  },
+  "required_section_validation": {
+    "enabled": true,
+    "penalty": "Critical"
+  },
+  "vulnerability_validation": {
+    "enabled": true,
+    "penalty": "Critical"
+  },
+  "terminology_validation": {
+    "enabled": true,
+    "penalty": "Information"
+  }
+}

@@ -1,0 +1,28 @@
+# ComplianceCheck — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core UI framework
+customtkinter>=5.2.2
+
+# Document parsing
+PyMuPDF>=1.27.2.3       # PDF parsing (imported as fitz)
+python-docx>=1.2.0      # DOCX parsing and report generation
+
+# Report generation
+reportlab>=4.5.1         # PDF report export
+
+# Computer vision (logo recognition)
+opencv-python-headless>=4.13.0.92   # ORB feature matching + image processing
+numpy>=2.4.3             # Array operations for CV
+
+# Natural language / spelling
+pyspellchecker>=0.9.0    # English spelling validation
+
+# Image processing
+Pillow>=12.2.0           # Image loading for logo fingerprinting
+
+# Theme / appearance
+darkdetect>=0.8.0        # System dark/light mode detection
+
+# Packaging (for building the .exe — not required to run from source)
+# pyinstaller>=6.0

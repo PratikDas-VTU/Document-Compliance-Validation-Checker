@@ -1,0 +1,15 @@
+# ComplianceCheck — Git line ending normalization
+# Ensures consistent LF on all platforms, CRLF on Windows checkout
+
+* text=auto eol=lf
+
+# Explicitly binary files (no line-ending conversion)
+*.ico binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.docx binary
+*.zip binary
+*.exe binary

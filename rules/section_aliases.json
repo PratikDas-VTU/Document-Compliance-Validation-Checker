@@ -1,0 +1,47 @@
+{
+  "Executive Summary": [
+    "Overview",
+    "Introduction",
+    "Management Summary",
+    "Executive Overview",
+    "Exec Summary",
+    "Management Overview"
+  ],
+  "References": [
+    "Bibliography",
+    "Sources",
+    "Appendix References",
+    "Reference List",
+    "Further Reading"
+  ],
+  "Title": [
+    "Report Title",
+    "Document Title",
+    "Subject"
+  ],
+  "Description": [
+    "Background",
+    "Vulnerability Description",
+    "Finding Description",
+    "Technical Description",
+    "Detail",
+    "Details"
+  ],
+  "Impact": [
+    "Risk",
+    "Business Impact",
+    "Technical Impact",
+    "Risk Assessment",
+    "Risk Impact",
+    "Potential Impact"
+  ],
+  "Recommendation": [
+    "Recommendations",
+    "Remediation",
+    "Mitigation",
+    "Suggested Fix",
+    "Resolution",
+    "Corrective Action",
+    "Remediation Steps"
+  ]
+}
